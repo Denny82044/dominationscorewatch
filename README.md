@@ -19,7 +19,8 @@ pip install -r requirements.txt
 # Notes/Important info
 1. The console will be very spammy, this is intended.
 2. If not in Domination, the program will show random values, this is normal.
-3. If there are any bugs, report them on the repo or to me directly on Discord (denny82044)
+3. This has only been tested on Windows, but is expected to work on other operating systems.
+4. If there are any bugs, report them on the repo or to me directly on Discord (denny82044).
 
 # Supported Dolphin Versions
 https://github.com/Denny82044/dominationsorewatch/blob/main/supporteddolphinversions.md
